@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=gamestate()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ gamestate\n
+comment1.params=bs
+comment1.target=gamestate(int[][])
+comment2.params=i\ x\ y\ gs
+comment2.target=boolean\ move(int,\ int,\ int,\ gamestate)
+comment3.params=i\ x\ y
+comment3.target=gamestate\ potentialMove(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ close()
+comment5.params=
+comment5.target=int\ state()
+comment6.params=player
+comment6.target=gamestate[]\ legalMoves(int)
+numComments=7

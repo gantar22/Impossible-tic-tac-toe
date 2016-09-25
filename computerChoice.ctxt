@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=computerChoice()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ computerChoice\n
+comment1.params=gs\ player\ root
+comment1.target=int\ nextMove(gamestate,\ int,\ boolean)
+numComments=2
